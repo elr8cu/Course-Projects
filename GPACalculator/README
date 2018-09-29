@@ -1,0 +1,11 @@
+Instructions: 
+Type course name (optional) in the designated text box, select course grade (optional) 
+from the designated combo box, select credit hours (required) from the designated combo box,
+then click "Enter" to add the course to the list of your courses. 
+To remove a course, click on the course you want to remove and press the "Remove" button. 
+To remove all courses, click the "Remove All" button, and to add 15 blank credits click 
+"Add 15 Blank Credits." When you are finished adding courses, click "Finish."
+A new panel will display your Current GPA. You can enter a Target GPA in
+the designated text box and press "Enter", then the required GPA on your blank credit hours
+necessary to achieve that Target GPA will be displayed. If you want to edit any of your
+courses, click "Edit Entered Courses."
